@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ch06</string>
+    <string name="long_text">
+        longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+        longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+        longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+        longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+        longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+    </string>
 </resources>
